@@ -1,0 +1,15 @@
+Command Line
+Version
+1.*
+
+Display name
+Run "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe" vc view
+
+Tool
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe" vc view
+
+Arguments
+/collection:https://tfs.hsn.net/tfs/defaultcollection /output:.\dostounix.py                                                                                                                                                                "$/XebiaLabs/IM/Scripts/dostounix.py"
+
+Advanced
+Control Options
